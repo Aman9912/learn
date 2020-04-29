@@ -1,0 +1,20 @@
+to store data into git repository-------->
+============================================
+1.---->git init
+
+2.---->git status
+
+3.---->git add --all/git add file name.jpg
+
+4.---->git commit -m "first commit"
+
+5.---->git remote add origin https://github.com/Aman9912/mobile.git
+
+6.---->git push -u origin master
+
+
+to clone data into our local repository---->
+==============================================
+1.---->git init
+
+2.---->git clone url******
